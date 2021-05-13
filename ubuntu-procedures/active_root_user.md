@@ -16,7 +16,7 @@ By default, the `root` user account is disabled after you install Ubuntu. You ju
 
 3. Enter the new password again, and then press enter.
 
-If the operation was a success, you will receive this message.
+If the operation was a success, you will receive this message:
 
 ````shellscript
 passwd: password updated successfully
