@@ -1,5 +1,5 @@
-# Technical Writing Portfolio
+# Procedures and Notes
 
 ## Description
 
-This is a public repository that acts as my technical writing portfolio. It contains writing samples for showcase purposes.
+This repository contains simple procedures and notes.
